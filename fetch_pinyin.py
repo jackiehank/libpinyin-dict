@@ -35,7 +35,7 @@ import os
 from pypinyin import lazy_pinyin, Style
 
 # Please revise this line before run.
-raw_dir = r"/home/jackie/Dev/libpinyin-dict/raw"
+raw_dir = r"raw"
 
 
 def fetch_pinyin(words, sep="'"):
